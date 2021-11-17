@@ -2150,7 +2150,7 @@ input, select, textarea {
 
 			#nav ul li a {
 				display: block;
-				padding: 0.1em 1.5em 0.1em 1.5em;
+				padding: 0.15em 1.5em 0.15em 1.5em;
 				color: rgba(255, 255, 255, 0.5);
 				text-decoration: none;
 				outline: 0;
@@ -2164,7 +2164,7 @@ input, select, textarea {
 				#nav ul li a span {
 					position: relative;
 					display: block;
-					font-size: 0.75em;
+					font-size: 0.8em;
 				}
 
 					#nav ul li a span:before {
