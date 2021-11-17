@@ -2104,7 +2104,8 @@ input, select, textarea {
 			}
 
 				#header .icons a:hover {
-					color: #aaa;
+					color: #02ade7;
+					text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
 				}
 
 	#logo {
@@ -2125,9 +2126,9 @@ input, select, textarea {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.77em;
+			font-size: 0.8em;
 			color: #fff;
-			line-height: 1.2em;
+			line-height: 1em;
 			margin: 0.5em 0 0 0;
 		}
 
@@ -2149,7 +2150,7 @@ input, select, textarea {
 
 			#nav ul li a {
 				display: block;
-				padding: 0.3em 1.5em 0.3em 1.5em;
+				padding: 0.2em 1.5em 0.2em 1.5em;
 				color: rgba(255, 255, 255, 0.5);
 				text-decoration: none;
 				outline: 0;
