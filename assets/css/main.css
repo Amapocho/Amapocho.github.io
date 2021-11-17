@@ -2138,7 +2138,7 @@ input, select, textarea {
 			top: 0;
 		}
 
-		#nav ul {
+	#nav ul {
 		list-style: none;
 		padding-left: 0;
 		margin-bottom: 0;
@@ -2185,7 +2185,6 @@ input, select, textarea {
 					#nav ul li a.active span:before {
 						color: #fff;
 					}
-
 /* Footer */
 
 	#footer {
