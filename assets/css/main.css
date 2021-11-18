@@ -2092,7 +2092,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 1em 0 0.5em 0;
+			padding: 1.5em 0 0.5em 0;
 		}
 
 			#header .bottom > :last-child {
