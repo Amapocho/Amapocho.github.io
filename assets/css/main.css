@@ -1926,8 +1926,8 @@ input, select, textarea {
 		text-align: left;
 	}
 
-		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+		table tbody tr {
+			background: #e4e4e4;
 		}
 
 		table td {
